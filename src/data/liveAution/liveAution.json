@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "image": "assets/images/bg/live-auc1.jpg",
+    "title": {
+      "en": "เหรียญชนะมารเนื้อเงิน ปี 37",
+      "th": "เหรียญชนะมารเนื้อเงิน ปี 37",
+      "zh": "เหรียญชนะมารเนื้อเงิน ปี 37"
+    },
+    "startingBidPrice": {
+      "usd": 30.9,
+      "thb": 1000,
+      "cny": 200
+    },
+    "authorImage": "assets/images/bg/auction-authr1.png",
+    "authorName": "Adam jons",
+    "highestPrice": {
+      "usd": 1125,
+      "thb": 37000,
+      "cny": 7400
+    }
+  },
+  {
+    "id": 2,
+    "image": "assets/images/bg/live-auc2.jpg",
+    "title": {
+      "en": "พระสมเด็จระฆังหลังขอนยุคต้น สวยเดิมๆ",
+      "th": "พระสมเด็จระฆังหลังขอนยุคต้น สวยเดิมๆ",
+      "zh": "พระสมเด็จระฆังหลังขอนยุคต้น สวยเดิมๆ"
+    },
+    "startingBidPrice": {
+      "usd": 3,
+      "thb": 100,
+      "cny": 20
+    },
+    "authorImage": "assets/images/bg/auction-authr2.png",
+    "authorName": "william keri",
+    "highestPrice": {
+      "usd": 75,
+      "thb": 2500,
+      "cny": 500
+    }
+  },
+  {
+    "id": 3,
+    "image": "assets/images/bg/live-auc3.webp",
+    "title": {
+      "en": "เหรียญทองแดงพระพุทธโสธร วัดเนินกระปรอก ปี2516",
+      "th": "เหรียญทองแดงพระพุทธโสธร วัดเนินกระปรอก ปี2516",
+      "zh": "เหรียญทองแดงพระพุทธโสธร วัดเนินกระปรอก ปี2516"
+    },
+    "startingBidPrice": {
+      "usd": 3,
+      "thb": 100,
+      "cny": 20
+    },
+    "authorImage": "assets/images/bg/auction-authr3.png",
+    "authorName": "john dou",
+    "highestPrice": {
+      "usd": 0,
+      "thb": 0,
+      "cny": 0
+    }
+  },
+  {
+    "id": 4,
+    "image": "assets/images/bg/live-auc4.jpg",
+    "title": {
+      "en": "เหรียญ พระพุทธชินราช ข้างเลื่อย หลวงพ่อเหลือ วัดสาวชะโงก",
+      "th": "เหรียญ พระพุทธชินราช ข้างเลื่อย หลวงพ่อเหลือ วัดสาวชะโงก",
+      "zh": "เหรียญ พระพุทธชินราช ข้างเลื่อย หลวงพ่อเหลือ วัดสาวชะโงก"
+    },
+    "startingBidPrice": {
+      "usd": 3,
+      "thb": 100,
+      "cny": 20
+    },
+    "authorImage": "assets/images/bg/auction-authr4.png",
+    "authorName": "Quriy Songi",
+    "highestPrice": {
+      "usd": 0,
+      "thb": 0,
+      "cny": 0
+    }
+  },
+  {
+    "id": 5,
+    "image": "assets/images/bg/live-auc5.jpg",
+    "title": {
+      "en": "พระแก้วมรกตจำลอง+บุษบกรัตนะ สูง 75 ซม",
+      "th": "พระแก้วมรกตจำลอง+บุษบกรัตนะ สูง 75 ซม",
+      "zh": "พระแก้วมรกตจำลอง+บุษบกรัตนะ สูง 75 ซม"
+    },
+    "startingBidPrice": {
+      "usd": 15000,
+      "thb": 500000,
+      "cny": 100000
+    },
+    "authorImage": "assets/images/bg/auction-authr5.png",
+    "authorName": "Handi keu",
+    "highestPrice": {
+      "usd": 0,
+      "thb": 0,
+      "cny": 0
+    }
+  },
+  {
+    "id": 6,
+    "image": "assets/images/bg/live-auc6.jpg",
+    "title": {
+      "en": "นางกวัก หลวงปู่จันทร์ วัดโฉลกหลำ จ.สุราษฎร์ธานี พร้อมบัตร รับรอง",
+      "th": "นางกวัก หลวงปู่จันทร์ วัดโฉลกหลำ จ.สุราษฎร์ธานี พร้อมบัตร รับรอง",
+      "zh": "นางกวัก หลวงปู่จันทร์ วัดโฉลกหลำ จ.สุราษฎร์ธานี พร้อมบัตร รับรอง"
+    },
+    "startingBidPrice": {
+      "usd": 0.27,
+      "thb": 9,
+      "cny": 1.89
+    },
+    "authorImage": "assets/images/bg/auction-authr6.png",
+    "authorName": "Luthr mograbn",
+    "highestPrice": {
+      "usd": 225,
+      "thb": 7600,
+      "cny": 1500
+    }
+  }
+]

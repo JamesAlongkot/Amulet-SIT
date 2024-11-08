@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "image": "assets/images/bg/popular-bangkok.jpg",
+    "name": {
+      "en": "Popular Amulets in Bangkok",
+      "th": "พระเครื่องยอดนิยมกรุงเทพ",
+      "zh": "曼谷流行护身符"
+    }
+  },
+  {
+    "id": 2,
+    "image": "assets/images/bg/ayuthaya.jpg",
+    "name": {
+      "en": "Central Region Monks",
+      "th": "พระเกจิอาจารย์ภาคกลาง",
+      "zh": "中部地区僧侣"
+    }
+  },
+  {
+    "id": 3,
+    "image": "assets/images/bg/nakornpathom.jpg",
+    "name": {
+      "en": "Nakhon Pathom Amulets",
+      "th": "พระเครื่องสายจังหวัดนครปฐม",
+      "zh": "佛统府护身符"
+    }
+  },
+  {
+    "id": 4,
+    "image": "assets/images/bg/east.jpg",
+    "name": {
+      "en": "Eastern Region Monks",
+      "th": "พระเกจิอาจารย์ภาคตะวันออก",
+      "zh": "东部地区僧侣"
+    }
+  },
+  {
+    "id": 5,
+    "image": "assets/images/bg/south.webp",
+    "name": {
+      "en": "Southern Region Monks",
+      "th": "พระเกจิอาจารย์สายใต้",
+      "zh": "南部地区僧侣"
+    }
+  },
+  {
+    "id": 6,
+    "image": "assets/images/bg/north-east.jpg",
+    "name": {
+      "en": "Northeastern Region Monks",
+      "th": "พระเกจิอาจารย์สายภาคอีสาน",
+      "zh": "东北部地区僧侣"
+    }
+  },
+  {
+    "id": 7,
+    "image": "assets/images/bg/popular-bangkok.jpg",
+    "name": {
+      "en": "Popular Amulets in Bangkok",
+      "th": "พระเครื่องยอดนิยมกรุงเทพ",
+      "zh": "曼谷流行护身符"
+    }
+  },
+  {
+    "id": 8,
+    "image": "assets/images/bg/ayuthaya.jpg",
+    "name": {
+      "en": "Central Region Monks",
+      "th": "พระเกจิอาจารย์ภาคกลาง",
+      "zh": "中部地区僧侣"
+    }
+  },
+  {
+    "id": 9,
+    "image": "assets/images/bg/nakornpathom.jpg",
+    "name": {
+      "en": "Nakhon Pathom Amulets",
+      "th": "พระเครื่องสายจังหวัดนครปฐม",
+      "zh": "佛统府护身符"
+    }
+  },
+  {
+    "id": 10,
+    "image": "assets/images/bg/east.jpg",
+    "name": {
+      "en": "Eastern Region Monks",
+      "th": "พระเกจิอาจารย์ภาคตะวันออก",
+      "zh": "东部地区僧侣"
+    }
+  },
+  {
+    "id": 11,
+    "image": "assets/images/bg/south.webp",
+    "name": {
+      "en": "Southern Region Monks",
+      "th": "พระเกจิอาจารย์สายใต้",
+      "zh": "南部地区僧侣"
+    }
+  },
+  {
+    "id": 12,
+    "image": "assets/images/bg/north-east.jpg",
+    "name": {
+      "en": "Northeastern Region Monks",
+      "th": "พระเกจิอาจารย์สายภาคอีสาน",
+      "zh": "东北部地区僧侣"
+    }
+  }
+]

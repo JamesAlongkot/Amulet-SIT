@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "image": "assets/images/bg/live-auc1.jpg",
+    "authorName": "Tawasnik",
+    "authorImg": "assets/images/bg/upcoming-author1.png",
+    "title": {
+      "en": "เหรียญชนะมารเนื้อเงิน ปี 37",
+      "th": "เหรียญชนะมารเนื้อเงิน ปี 37",
+      "zh": "เหรียญชนะมารเนื้อเงิน ปี 37"
+    },
+    "category": {
+      "en": "หลวงพ่อคูณ วัดบ้านไร่",
+      "th": "หลวงพ่อคูณ วัดบ้านไร่",
+      "zh": "หลวงพ่อคูณ วัดบ้านไร่"
+    },
+    "startingBidPrice": {
+      "usd": 30.9,
+      "thb": 1000,
+      "cny": 200
+    }
+  },
+  {
+    "id": 2,
+    "image": "assets/images/bg/live-auc2.jpg",
+    "authorImg": "assets/images/bg/upcoming-author2.png",
+    "authorName": "Keniyam",
+    "title": {
+      "en": "พระสมเด็จระฆังหลังขอนยุคต้น สวยเดิมๆ",
+      "th": "พระสมเด็จระฆังหลังขอนยุคต้น สวยเดิมๆ",
+      "zh": "พระสมเด็จระฆังหลังขอนยุคต้น สวยเดิมๆ"
+    },
+    "category": {
+      "en": "เหรียญหล่อก่อนปี ๒๕๐๐",
+      "th": "เหรียญหล่อก่อนปี ๒๕๐๐",
+      "zh": "เหรียญหล่อก่อนปี ๒๕๐๐"
+    },
+    "startingBidPrice": {
+      "usd": 3,
+      "thb": 100,
+      "cny": 20
+    }
+  },
+  {
+    "id": 3,
+    "image": "assets/images/bg/live-auc3.webp",
+    "authorImg": "assets/images/bg/upcoming-author3.png",
+    "authorName": "Wilison",
+    "title": {
+      "en": "เหรียญทองแดงพระพุทธโสธร วัดเนินกระปรอก ปี2516",
+      "th": "เหรียญทองแดงพระพุทธโสธร วัดเนินกระปรอก ปี2516",
+      "zh": "เหรียญทองแดงพระพุทธโสธร วัดเนินกระปรอก ปี2516"
+    },
+    "category": {
+      "en": "พระเครื่องเมืองระยอง",
+      "th": "พระเครื่องเมืองระยอง",
+      "zh": "พระเครื่องเมืองระยอง"
+    },
+    "startingBidPrice": {
+      "usd": 3,
+      "thb": 100,
+      "cny": 20
+    }
+  },
+  {
+    "id": 4,
+    "image": "assets/images/bg/live-auc4.jpg",
+    "authorImg": "assets/images/bg/upcoming-author2.png",
+    "authorName": "robat",
+    "title": {
+      "en": "เหรียญ พระพุทธชินราช ข้างเลื่อย หลวงพ่อเหลือ วัดสาวชะโงก",
+      "th": "เหรียญ พระพุทธชินราช ข้างเลื่อย หลวงพ่อเหลือ วัดสาวชะโงก",
+      "zh": "เหรียญ พระพุทธชินราช ข้างเลื่อย หลวงพ่อเหลือ วัดสาวชะโงก"
+    },
+    "category": {
+      "en": "เหรียญปั๊มก่อนปี ๒๕๐๐",
+      "th": "เหรียญปั๊มก่อนปี ๒๕๐๐",
+      "zh": "เหรียญปั๊มก่อนปี ๒๕๐๐"
+    },
+    "startingBidPrice": {
+      "usd": 3,
+      "thb": 100,
+      "cny": 20
+    }
+  }
+]

@@ -1,0 +1,4 @@
+node_modules
+.next
+.vscode
+create_file_in_folders.sh
