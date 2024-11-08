@@ -1,0 +1,18 @@
+{
+  "category": {
+    "oldAmulets": "พระเก่าแก่",
+    "popularAmulets": "พระยอดนิยม",
+    "certifiedAmulets": "พระที่มีใบรับรอง",
+    "auctionAmulets": "พระประมูล"
+  },
+  "liveAuction": "ประมูลสด",
+  "biddingPrice": "ราคาประมูล",
+  "startingBidPrice": "ราคาประมูลเริ่มต้น",
+  "placeBid": "ประมูล",
+  "viewAll": "ดูทั้งหมด",
+  "upcomingAuction": "การประมูลที่กำลังจะเริ่ม",
+  "viewDetail": "ดูรายละเอียด",
+  "amuletStore": "ร้านพระออนไลน์",
+  "price": "ราคา",
+  "recentTopics": "หัวข้อล่าสุด"
+}

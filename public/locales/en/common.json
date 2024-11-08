@@ -1,0 +1,18 @@
+{
+  "category": {
+    "oldAmulets": "Old Amulets",
+    "popularAmulets": "Popular Amulets",
+    "certifiedAmulets": "Certified Amulets",
+    "auctionAmulets": "Auction Amulets"
+  },
+  "liveAuction": "Live Auction",
+  "biddingPrice": "Bidding Price",
+  "startingBidPrice": "Starting Bid Price",
+  "placeBid": "Place a Bid",
+  "viewAll": "View All",
+  "upcomingAuction": "Upcoming Auction",
+  "viewDetail": "View Detail",
+  "amuletStore": "Amulet Store",
+  "price": "Price",
+  "recentTopics": "Recent Topics"
+}

@@ -1,0 +1,18 @@
+{
+  "category": {
+    "oldAmulets": "古老的护身符",
+    "popularAmulets": "流行的护身符",
+    "certifiedAmulets": "有证书的护身符",
+    "auctionAmulets": "拍卖护身符"
+  },
+  "liveAuction": "现场拍卖",
+  "biddingPrice": "竞标价格",
+  "startingBidPrice": "起拍价",
+  "placeBid": "出价",
+  "viewAll": "查看全部",
+  "upcomingAuction": "即将拍卖",
+  "viewDetail": "查看详情",
+  "amuletStore": "护身符商店",
+  "price": "价格",
+  "recentTopics": "最近的话题"
+}
