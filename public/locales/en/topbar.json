@@ -1,0 +1,18 @@
+{
+  "followUs": "Follow Us",
+  "socialLinks": {
+    "facebook": "Facebook",
+    "twitter": "Twitter",
+    "instagram": "Instagram",
+    "pinterest": "Pinterest"
+  },
+  "email": "Email",
+  "language": "Language",
+  "english": "English",
+  "thai": "Thai",
+  "chinese": "Chinese",
+  "currency": "Currency",
+  "usd": "USD",
+  "thb": "THB",
+  "cny": "CNY"
+}
